@@ -4,3 +4,7 @@
 Days completed: **`3`** / **`25`**
 
 View the `src` folder for my `c++` puzzle solutions thus far.
+
+```
+$ git clone https://github.com/VyProductions/AdventofCode2022
+```
