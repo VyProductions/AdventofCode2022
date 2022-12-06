@@ -15,7 +15,7 @@ int main() {
     int char_length = 0;  // Length of signal read when buffer was all unique
     char ch;              // Individual character read in from signal string
 
-    while (char_count < BUFFER_SIZE && std::cin >> ch) {
+    while (char_count != BUFFER_SIZE && std::cin >> ch) {
         ++char_length;
 
         // Decrease amount of times first character in "window" appears
