@@ -13,10 +13,9 @@ int main() {
     int char_count = 0;
 
     int char_length = 0;  // Length of signal read when buffer was all unique
-    bool done = false;    // Done processing signal
     char ch;              // Individual character read in from signal string
 
-    while (!done && std::cin >> ch) {
+    while (char_count != BUFFER_SIZE && std::cin >> ch) {
         ++char_length;
 
         // Decrease amount of times first character in "window" appears
@@ -35,10 +34,6 @@ int main() {
         char_count += !charMap[ch];
 
         charMap[ch]++;
-
-        if (char_count == BUFFER_SIZE) {
-            done = true;
-        }
     }
 
     printf("Signal Length: %d\n", char_length);
