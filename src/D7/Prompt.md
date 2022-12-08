@@ -102,6 +102,6 @@ Your puzzle answer was `2948823`.
 
 At this point, you should [<span style="color:#007F00">return to your Advent calendar</span>](https://adventofcode.com/2022) and try another puzzle.
 
-If you still want to see it, you can get your puzzle input.
+If you still want to see it, you can [<span style="color:#007F00">get your puzzle input</span>](https://adventofcode.com/2022/day/7/input).
 
 You can also <span style="color:#007F00">[Share on [<span style="color:#007F00">Twitter</span>](https://twitter.com/intent/tweet?text=I%27ve+completed+%22No+Space+Left+On+Device%22+%2D+Day+7+%2D+Advent+of+Code+2022&url=https%3A%2F%2Fadventofcode%2Ecom%2F2022%2Fday%2F7&related=ericwastl&hashtags=AdventOfCode) or Mastodon]</span> this puzzle.
