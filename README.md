@@ -10,7 +10,7 @@ View the `src` folder for my `c++` puzzle solutions thus far.
 git clone https://github.com/VyProductions/AdventofCode2022
 ```
 
-Within each `Puzzle*` directory (ie, `src/D1/Puzzle1/`), use
+Within each `Puzzle*` directory (ie, `./Puzzle1/`), use
 ```
 make
 ```
