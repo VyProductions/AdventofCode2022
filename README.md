@@ -1,6 +1,6 @@
 # Advent of Code, 2022 -- Sample Solutions Repo
 
-Days completed: **`14`** / **`25`**
+Days completed: **`15`** / **`25`**
 
 View the `src` folder for my `c++` puzzle solutions thus far.
 
